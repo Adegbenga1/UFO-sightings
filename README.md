@@ -8,8 +8,10 @@
 
 [UFO html CODES.txt](https://github.com/Adegbenga1/UFO-sightings/files/7151038/UFO.html.CODES.txt)
 
- app.js
+app.js
+
 ![image](https://user-images.githubusercontent.com/70987568/133016015-69ea169b-f665-4b4e-95ce-86e48e30e9b6.png)
+
 ![image](https://user-images.githubusercontent.com/70987568/133016051-f151375a-1c68-462c-adde-e35f860abe98.png)
 
 
