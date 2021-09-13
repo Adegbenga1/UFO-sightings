@@ -10,10 +10,7 @@ HTML CODEs
 
 ![image](https://user-images.githubusercontent.com/70987568/133016443-3ec1e88a-9f73-4fc1-9745-a9c1df0effeb.png)
 
-![image](https://user-images.githubusercontent.com/70987568/133016535-d1fb38e1-3f92-4d04-ac8e-de7b5bd132ad.png)
-
-![image](https://user-images.githubusercontent.com/70987568/133016565-741a37af-d0af-4bb4-869c-88236f7e1d5d.png)
-
+![image](https://user-images.githubusercontent.com/70987568/133128404-09cc4f49-b1d6-4ebf-a721-ae886d9caab1.png)
 
 
 app.js
